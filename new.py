@@ -12,3 +12,4 @@ print("work in master #1")
 
 print("work in feature #1")
 print("work in feature #2")
+print("work in feature #3")
