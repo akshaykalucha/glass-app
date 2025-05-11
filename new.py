@@ -11,3 +11,4 @@ print("some work done in master branch")
 print("work in master #1")
 
 print("work in feature #1")
+print("work in feature #2")
