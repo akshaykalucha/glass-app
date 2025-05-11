@@ -1,8 +1,9 @@
 print("mew")
 
-print("new changes in dummy banch")
+print("new changes in dummy banch, change in master branch")
 
 print("some work done in master branch")
 
 print("some other devs work")
 print("My name is John Doe")
+
